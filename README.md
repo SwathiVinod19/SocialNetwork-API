@@ -10,3 +10,26 @@
 
 # SocialNetwork-API
  An API for social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. This application uses Express.js for routing, a MongoDB database, and the Mongoose ODM along with Javascript.
+
+## Description
+SocialNetwork-API is an API for a social network web application where users can share their thoughts, react to friends' thoughts, and create a friend list. This backend application uses Express.js for routing, a MongoDB database, and the Mongoose ODM. Additionally, [Moment.js](https://momentjs.com/) is used to format dates and [Faker-js](https://www.npmjs.com/package/@faker-js/faker) is used to seed mock users and thoughts in the database.
+
+## Table of Contents
+
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributing](#contributing)
+* [Contact](#contact)
+
+## Installation
+* Check if you have Node.js installed by typing `node -v` in your terminal. If node is not installed, visit the node.js website and install it. 
+* Next, clone this project repository to your local machine. 
+* Use the command `npm i` to install all the dependencies. 
+* Seed database with random mock data via [Faker-js](https://www.npmjs.com/package/@faker-js/faker) using command `npm run seed`.
+  
+## Usage
+* Start server with command `npm start`.
+* Alternatively, start server with Nodemon (and restart server automatically when making changes to code) with command `npm run dev`.
+* Access API routes with Insomnia, Postman, or other REST API testing client.
+
