@@ -36,20 +36,20 @@ SocialNetwork-API is an API for a social network web application where users can
 `` GET routes``
 <br>
 `` GET All Users -> /api/users`` <br>
-`` Get All Thoughts  -> /api/thoughts `` <br>
-`` Get Single User  -> /api/users/:userId  ``<br>
-`` Get Single Thought -> /api/users/:thoughtId ``<br>
+`` GET All Thoughts  -> /api/thoughts `` <br>
+`` GET Single User  -> /api/users/:userId  ``<br>
+`` GET Single Thought -> /api/users/:thoughtId ``<br>
 
 ``POST (Create) routes ``
 <br>
-`` POST User -> /api/users ``
-`` POST Thought -> /api/thoughts ``
-`` POST Reaction -> /api/thoughts/:thoughtId/reactions ``
-`` POST friend -> /api/users/:userId/friends/:friendId ``
+`` POST User -> /api/users ``<br>
+`` POST Thought -> /api/thoughts ``<br>
+`` POST Reaction -> /api/thoughts/:thoughtId/reactions ``<br>
+`` POST friend -> /api/users/:userId/friends/:friendId ``<br>
 
 ``PUT (Update) routes``
 <br>
-`` PUT User -> /api/users/:userId  ``
+`` PUT User -> /api/users/:userId  ``<br>
 `` PUT Thought -> /api/thoughts/:thoughtId ``
 
 
