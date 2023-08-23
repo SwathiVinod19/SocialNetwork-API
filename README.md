@@ -37,6 +37,16 @@ SocialNetwork-API is an API for a social network web application where users can
 <br>
 `` GET All Users -> /api/users``
 `` Get All Thoughts  -> /api/thoughts ``
+`` Get Single User  -> /api/users/:userId  ``
+`` Get Single Thought -> /api/users/:thoughtId ``
+
+``POST routes ``
+<br>
+`` POST (Create) User -> /api/users ``
+`` POST (Create) Thought -> /api/thoughts ``
+`` POST (Create) Reaction -> /api/thoughts/:thoughtId/reactions ``
+
+
 
 ## License
 
