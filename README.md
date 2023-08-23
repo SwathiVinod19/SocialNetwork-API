@@ -63,3 +63,10 @@ SocialNetwork-API is an API for a social network web application where users can
 [MIT License](https://opensource.org/licenses/MIT)
 
 ## Contributing
+
+This application was created as part of University of Toronto Bootcamp. I am open to contributions. 
+
+## Contact
+
+* [Email](swathi.vinod@gmail.com)
+* [Git Huh](https://github.com/SwathiVinod19/)
