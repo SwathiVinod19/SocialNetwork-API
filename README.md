@@ -34,6 +34,7 @@ SocialNetwork-API is an API for a social network web application where users can
 * Access API routes with Insomnia, Postman, or other REST API testing client.
 
 `` GET routes``
+<br>
 `` GET All Users -> /api/users``
 `` Get All Thoughts  -> /api/thoughts ``
 
