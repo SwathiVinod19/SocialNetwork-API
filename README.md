@@ -33,9 +33,9 @@ SocialNetwork-API is an API for a social network web application where users can
 * Alternatively, start server with Nodemon (and restart server automatically when making changes to code) with command `npm run dev`.
 * Access API routes with Insomnia, Postman, or other REST API testing client.
 
-`` GET routes
-`` GET All Users -> /api/users
-`` Get All Thoughts  -> /api/thoughts 
+`` GET routes``
+`` GET All Users -> /api/users``
+`` Get All Thoughts  -> /api/thoughts ``
 
 ## License
 
