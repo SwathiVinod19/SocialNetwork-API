@@ -69,4 +69,4 @@ This application was created as part of University of Toronto Bootcamp. I am ope
 ## Contact
 
 * [Email](swathi.vinod@gmail.com)
-* [Git Huh](https://github.com/SwathiVinod19/)
+* [GitHub](https://github.com/SwathiVinod19/)
