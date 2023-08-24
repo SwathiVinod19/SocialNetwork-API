@@ -69,7 +69,7 @@ Repository link: https://github.com/SwathiVinod19/SocialNetwork-API
 
 ## License
 
-[MIT License](https://opensource.org/licenses/MIT)
+[MIT License](https://opensource.org/licenses/MIT) <a href="">[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)</a>
 
 ## Contributing
 
