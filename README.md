@@ -61,7 +61,9 @@ SocialNetwork-API is an API for a social network web application where users can
 ## Links
 
 Walkthrough video link : https://drive.google.com/file/d/15QQ0wuYNvg27nnoPDhiT6DLtL3RUzK1T/view
+<br>
 Github link: https://github.com/SwathiVinod19
+<br>
 Repository link: https://github.com/SwathiVinod19/SocialNetwork-API
 
 
