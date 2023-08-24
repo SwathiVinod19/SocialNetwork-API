@@ -18,6 +18,7 @@ SocialNetwork-API is an API for a social network web application where users can
 
 * [Installation](#installation)
 * [Usage](#usage)
+* [Links](#Links)
 * [License](#license)
 * [Contributing](#contributing)
 * [Contact](#contact)
@@ -56,6 +57,12 @@ SocialNetwork-API is an API for a social network web application where users can
 
 `` PUT User -> /api/users/:userId  ``<br>
 `` PUT Thought -> /api/thoughts/:thoughtId ``
+
+## Links
+
+Walkthrough video link : https://drive.google.com/file/d/15QQ0wuYNvg27nnoPDhiT6DLtL3RUzK1T/view
+Github link: https://github.com/SwathiVinod19
+Repository link: https://github.com/SwathiVinod19/SocialNetwork-API
 
 
 ## License
